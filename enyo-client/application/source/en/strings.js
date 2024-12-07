@@ -763,6 +763,7 @@
     "_valueAfter": "Value After",
     "_valueBefore": "Value Before",
     "_vendor": "Vendor",
+    "_vendors": "Vendors",
     "_vendorAddress": "Vendor Address",
     "_vendorType": "Vendor Type",
     "_verified": "Verified",
